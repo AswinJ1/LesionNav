@@ -1,0 +1,6 @@
+Episode 50 - Average Loss: 0.396601
+Episode 100 - Average Loss: 0.329934
+Episode 150 - Average Loss: 0.247745
+Episode 200 - Average Loss: 0.140061
+Episode 250 - Average Loss: 0.098972
+Episode 300 - Average Loss: 0.071008

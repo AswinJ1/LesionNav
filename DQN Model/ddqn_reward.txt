@@ -1,0 +1,6 @@
+Episode 50 - Reward: 4.99
+Episode 100 - Reward: 4.87
+Episode 150 - Reward: 4.99
+Episode 200 - Reward: 4.76
+Episode 250 - Reward: 4.86
+Episode 300 - Reward: 4.7299999999999995

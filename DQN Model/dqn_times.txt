@@ -1,0 +1,7 @@
+Episode 50: 1.35 minutes
+Episode 100: 2.75 minutes
+Episode 150: 4.38 minutes
+Episode 200: 5.35 minutes
+Episode 250: 7.54 minutes
+Episode 300: 8.81 minutes
+Episode 50: 2.14 minutes
